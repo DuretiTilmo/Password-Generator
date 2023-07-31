@@ -1,4 +1,4 @@
-# Challenge3
+# Password Generator
 
 ## JavaScript: Password Generator
 
